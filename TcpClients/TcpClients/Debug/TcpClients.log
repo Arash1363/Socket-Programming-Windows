@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Arash\source\repos\TcpClients\TcpClients\main.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TcpClients.vcxproj -> C:\Users\Arash\source\repos\TcpClients\Debug\TcpClients.exe
